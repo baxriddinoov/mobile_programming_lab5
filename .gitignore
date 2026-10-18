@@ -1,0 +1,5 @@
+# IDE settings
+.idea/
+
+# Duplicate practice copy (all tasks live in nav_lab/lib/categoryN/)
+nav_lab/nav_lab/
